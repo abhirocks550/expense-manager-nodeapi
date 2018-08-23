@@ -1,0 +1,24 @@
+{
+  "name": "expenseapp",
+  "version": "1.0.0",
+  "description": "Node JS API for expense application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "Nodejs",
+    "jwt",
+    "passport",
+    "express"
+  ],
+  "author": "Abhijit Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "jsonwebtoken": "^7.4.2",
+    "mysql": "^2.16.0"
+  }
+}
